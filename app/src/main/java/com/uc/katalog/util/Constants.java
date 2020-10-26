@@ -9,7 +9,7 @@ import static java.lang.annotation.RetentionPolicy.SOURCE;
 public class Constants {
     public static final String BASE_URL = "https://api.themoviedb.org/3/";
     public static final String BASE_IMAGE_URL = "https://image.tmdb.org/t/p/original";
-    public static final String API_KEY = "cb1c80b182c53981be965b21accc3137";
+    public static final String API_KEY = "f5c73358f894d04b779524b58631b7d9";
 
     @Retention(SOURCE)
     @StringDef
